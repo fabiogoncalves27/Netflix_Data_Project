@@ -21,7 +21,7 @@ The dataset used for this project was a .csv file named 'netflix_data.csv' that 
 
 ## Objectives & Goals:
 
-In this project, I used Visual Studio Code and created a Jupyter Notebooks to manipulate the data of the csv file using Python.
+In this project, I used Visual Studio Code and created a Jupyter Notebook to manipulate the data of the csv file using Python.
 
     1: 
  
