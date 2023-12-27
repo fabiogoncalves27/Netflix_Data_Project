@@ -4,6 +4,7 @@ Investigating Netflix Movies Python Project
 ## Dataset:
 
 The dataset used for this project was the Sakila DVD Rental database that holds information about a company that rents DVD movies. In this project I used PostgreSQL to query the database in order to answer the questions presented below. 
+
 netflix_data.csv
 Column	Description
 show_id	The ID of the show
