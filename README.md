@@ -23,7 +23,7 @@ The dataset used for this project was a .csv file named 'netflix_data.csv' that 
 
 In this project, I used Visual Studio Code and created a Jupyter Notebooks to manipulate the data of the csv file using Python.
 
-    1: How many movies has each actor played in?
+    1: 
  
 ## Analysis:
 
