@@ -29,20 +29,19 @@ genre	Show genre
 | description | Description of the show |
 | genre | Show genre |
 
-    actor — contains actors data including first name and last name.
-    film — contains films data such as title, release year, length, rating, etc.
-    film_actor — contains the relationships between films and actors.
-    category — contains film’s categories data.
-    film_category — containing the relationships between films and categories.
-    store — contains the store data including manager staff and address.
-    inventory — stores inventory data.
-    rental — stores rental data.
-    payment — stores customer’s payments.
-    staff — stores staff data.
-    customer — stores customer’s data.
-    address — stores address data for staff and customers
-    city — stores the city names.
-    country — stores the country names.
+    | Column | Description |
+    | ------- | --- |
+    | show_id | The ID of the show |
+    | type | Type of show |
+    | title | Title of the show |
+    | director | Director of the show |
+    | cast | Cast of the show |
+    | country | Country of origin |
+    | date_added | Date added to Netflix |
+    | release_year | Year of Netflix release |
+    | duration | Duration of the show in minutes |
+    | description | Description of the show |
+    | genre | Show genre |
 
 
 ## Objectives & Goals:
