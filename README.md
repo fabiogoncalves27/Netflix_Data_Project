@@ -3,7 +3,7 @@ Investigating Netflix Movies Python Project
 
 ## Dataset:
 
-The dataset used for this project was a .csv file named 'netflix_data.csv' that holds information about a company that rents DVD movies. You can consult the file along with the following table detailing the column names and descriptions presented below. 
+The dataset used for this project was a .csv file named 'netflix_data.csv' that holds information about the streaming service. You can consult the dataset along with the following table detailing the column names and descriptions presented below: 
 
 | Column | Description |
 | ------- | --- |
