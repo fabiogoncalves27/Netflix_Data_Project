@@ -4,10 +4,23 @@ Investigating Netflix Movies Python Project
 ## Dataset:
 
 The dataset used for this project was the Sakila DVD Rental database that holds information about a company that rents DVD movies. In this project I used PostgreSQL to query the database in order to answer the questions presented below. 
-The schema for the DVD Rental database is provided below.
+netflix_data.csv
+Column	Description
+show_id	The ID of the show
+type	Type of show
+title	Title of the show
+director	Director of the show
+cast	Cast of the show
+country	Country of origin
+date_added	Date added to Netflix
+release_year	Year of Netflix release
+duration	Duration of the show in minutes
+description	Description of the show
+genre	Show genre
 
-![dvd-rental-sample-database-diagram](https://github.com/fabiogoncalves27/DVD-Rental-Database-Project/assets/152866565/9646f042-e640-4d3e-ab01-bb2ea90ff3ac)
-
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
 
     actor — contains actors data including first name and last name.
     film — contains films data such as title, release year, length, rating, etc.
