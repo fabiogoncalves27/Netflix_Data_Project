@@ -16,7 +16,6 @@ description	Description of the show
 genre	Show genre
 
 | Column | Description |
-| :---:   | :---: |
 | show_id | The ID of the show |
 | type | Type of show |
 | title | Title of the show |
